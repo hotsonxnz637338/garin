@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/hotsonxnz637338/garin",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
